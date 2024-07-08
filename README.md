@@ -1,1 +1,1 @@
-# start of react journey git
+# start of react journey
